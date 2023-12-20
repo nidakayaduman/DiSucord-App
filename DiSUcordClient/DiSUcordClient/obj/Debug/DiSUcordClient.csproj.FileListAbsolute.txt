@@ -1,0 +1,10 @@
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.Form1.resources
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.Properties.Resources.resources
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.csproj.GenerateResource.cache
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.csproj.CoreCompileInputs.cache
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\bin\Debug\DiSUcordClient.exe.config
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\bin\Debug\DiSUcordClient.exe
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\bin\Debug\DiSUcordClient.pdb
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.exe
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.pdb
+C:\Users\7981\source\repos\DiSUcordClient\DiSUcordClient\obj\Debug\DiSUcordClient.csproj.AssemblyReference.cache
